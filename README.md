@@ -24,3 +24,10 @@
 - 依赖混乱
 - 不一致的代码
 - 落后的代码风格
+
+
+## 工具
+
+强烈推荐使用[abracadabra](https://github.com/nicoespeon/abracadabra)
+
+它是对 vscode 重构的一个加强插件
