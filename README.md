@@ -26,6 +26,13 @@
 - 落后的代码风格
 
 
+## 环境
+
+- vscode
+- nodejs
+- typescript
+
+
 ## 工具
 
 强烈推荐使用[abracadabra](https://github.com/nicoespeon/abracadabra)
