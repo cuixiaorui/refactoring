@@ -38,3 +38,7 @@
 强烈推荐使用[abracadabra](https://github.com/nicoespeon/abracadabra)
 
 它是对 vscode 重构的一个加强插件
+
+以及使用意图编程的利器[Hocus Pocus](https://marketplace.visualstudio.com/items?itemName=nicoespeon.hocus-pocus)
+- 意图编程的思想[Wishful Thinking](https://wiki.c2.com/?WishfulThinking)
+
